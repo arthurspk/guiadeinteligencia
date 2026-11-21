@@ -203,6 +203,10 @@
 - [Claude Code](https://code.claude.com/docs/en/overview) — Assistente de IA de linha de comando da Anthropic para escrever, revisar e depurar código.
 - [Cursor](https://cursor.com/) — Editor de código construído em torno de assistentes de IA, com autocompletar e chat integrados ao projeto.
 
+> Estudo com vídeos
+
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) — Transcrição com marcação de tempo de qualquer vídeo do YouTube, para estudar aulas e palestras de IA buscando trechos no texto.
+
 ## 🧪 Projetos práticos e desafios
 
 - [Kaggle Competitions](https://www.kaggle.com/competitions) — Competições de machine learning, do nível iniciante ao profissional, ótimas para portfólio.
